@@ -1,0 +1,8 @@
+{
+  "name": "Remix Helios Solar Engine",
+  "description": "High-precision 3D Solar Time, Zenith/Azimuth \u0026 NOAA Timezone Engine for Games and Simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
